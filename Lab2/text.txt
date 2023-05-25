@@ -1,0 +1,604 @@
+22.06.2022 18:46:07,36: Log file with name "text.txt" was created 
+Previous time: 22.06.2022 18:46:07,36 
+22.06.2022 - 18:46:07
+File text.txt successfully open
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          8 K
+System                           4 Services                   0      5ÿ256 K
+Registry                       200 Services                   0     98ÿ536 K
+smss.exe                       592 Services                   0      1ÿ120 K
+csrss.exe                      832 Services                   0      5ÿ732 K
+wininit.exe                    928 Services                   0      6ÿ512 K
+csrss.exe                      936 Console                    1      6ÿ272 K
+services.exe                  1000 Services                   0      8ÿ472 K
+lsass.exe                     1020 Services                   0     22ÿ380 K
+winlogon.exe                   700 Console                    1     11ÿ484 K
+svchost.exe                   1124 Services                   0     29ÿ860 K
+fontdrvhost.exe               1152 Services                   0      2ÿ788 K
+fontdrvhost.exe               1156 Console                    1     10ÿ152 K
+svchost.exe                   1248 Services                   0     15ÿ452 K
+svchost.exe                   1300 Services                   0      8ÿ460 K
+dwm.exe                       1380 Console                    1     94ÿ692 K
+svchost.exe                   1480 Services                   0      5ÿ004 K
+svchost.exe                   1536 Services                   0     15ÿ660 K
+svchost.exe                   1564 Services                   0      9ÿ488 K
+svchost.exe                   1572 Services                   0     10ÿ072 K
+svchost.exe                   1584 Services                   0     12ÿ056 K
+svchost.exe                   1656 Services                   0      6ÿ108 K
+svchost.exe                   1740 Services                   0     16ÿ504 K
+svchost.exe                   1748 Services                   0      5ÿ624 K
+svchost.exe                   1792 Services                   0      7ÿ532 K
+svchost.exe                   1884 Services                   0     14ÿ188 K
+NVDisplay.Container.exe       1356 Services                   0     19ÿ360 K
+svchost.exe                   2080 Services                   0      9ÿ060 K
+svchost.exe                   2120 Services                   0     18ÿ236 K
+svchost.exe                   2132 Services                   0      6ÿ300 K
+svchost.exe                   2192 Services                   0     14ÿ068 K
+svchost.exe                   2200 Services                   0      5ÿ768 K
+svchost.exe                   2208 Services                   0      7ÿ212 K
+svchost.exe                   2408 Services                   0      7ÿ804 K
+Memory Compression            2416 Services                   0    484ÿ556 K
+svchost.exe                   2472 Services                   0      7ÿ616 K
+svchost.exe                   2520 Services                   0      8ÿ132 K
+svchost.exe                   2528 Services                   0      7ÿ516 K
+svchost.exe                   2608 Services                   0      7ÿ168 K
+NVDisplay.Container.exe       2784 Console                    1     49ÿ568 K
+svchost.exe                   2816 Services                   0     19ÿ152 K
+svchost.exe                   2932 Services                   0     20ÿ720 K
+svchost.exe                   2104 Services                   0     16ÿ132 K
+svchost.exe                   2732 Services                   0      6ÿ500 K
+svchost.exe                   2348 Services                   0      9ÿ124 K
+svchost.exe                   3108 Services                   0     12ÿ220 K
+spoolsv.exe                   3236 Services                   0     13ÿ828 K
+svchost.exe                   3344 Services                   0     17ÿ952 K
+svchost.exe                   3392 Services                   0     10ÿ696 K
+svchost.exe                   3408 Services                   0     17ÿ788 K
+svchost.exe                   3496 Services                   0      7ÿ592 K
+svchost.exe                   3776 Services                   0     15ÿ076 K
+svchost.exe                   3784 Services                   0     31ÿ272 K
+svchost.exe                   3816 Services                   0      7ÿ276 K
+svchost.exe                   3828 Services                   0      6ÿ316 K
+AdskAccessServiceHost.exe     3836 Services                   0     16ÿ704 K
+AdAppMgrSvc.exe               3844 Services                   0     23ÿ452 K
+svchost.exe                   3856 Services                   0     33ÿ440 K
+FNPLicensingService.exe       3872 Services                   0      8ÿ384 K
+nvcontainer.exe               3884 Services                   0     37ÿ232 K
+OriginWebHelperService.ex     3932 Services                   0      9ÿ476 K
+OfficeClickToRun.exe          3972 Services                   0     41ÿ536 K
+svchost.exe                   4000 Services                   0      5ÿ620 K
+RtkAudUService64.exe          4032 Services                   0      9ÿ388 K
+sqlwriter.exe                 4048 Services                   0      7ÿ884 K
+svchost.exe                   4068 Services                   0     19ÿ984 K
+MsMpEng.exe                   3488 Services                   0    227ÿ532 K
+svchost.exe                   4136 Services                   0      8ÿ584 K
+AdskLicensingService.exe      4152 Services                   0     14ÿ704 K
+svchost.exe                   4424 Services                   0     11ÿ636 K
+hidemesvc.exe                 4860 Services                   0     33ÿ152 K
+AggregatorHost.exe            5336 Services                   0      5ÿ312 K
+svchost.exe                   5404 Services                   0     13ÿ852 K
+rundll32.exe                  5556 Console                    1      7ÿ508 K
+svchost.exe                   5764 Services                   0      7ÿ708 K
+sihost.exe                    7148 Console                    1     33ÿ916 K
+svchost.exe                   6080 Console                    1     25ÿ080 K
+svchost.exe                   1980 Console                    1     34ÿ188 K
+svchost.exe                   6552 Services                   0     16ÿ324 K
+svchost.exe                   6816 Services                   0     14ÿ256 K
+svchost.exe                   6788 Services                   0      8ÿ144 K
+ctfmon.exe                    6876 Console                    1     21ÿ176 K
+explorer.exe                  6924 Console                    1    261ÿ436 K
+taskhostw.exe                 5864 Console                    1     17ÿ596 K
+svchost.exe                      8 Console                    1     23ÿ412 K
+svchost.exe                   2332 Services                   0     13ÿ336 K
+nvcontainer.exe               7592 Console                    1     28ÿ124 K
+nvcontainer.exe               7612 Console                    1     45ÿ756 K
+SearchHost.exe                7692 Console                    1    100ÿ764 K
+StartMenuExperienceHost.e     7732 Console                    1     69ÿ608 K
+RuntimeBroker.exe             7936 Console                    1     22ÿ736 K
+RuntimeBroker.exe             7980 Console                    1     41ÿ220 K
+SearchIndexer.exe             8136 Services                   0     42ÿ008 K
+svchost.exe                   8152 Console                    1      9ÿ764 K
+dllhost.exe                   8648 Console                    1     15ÿ640 K
+YourPhone.exe                 8980 Console                    1     18ÿ080 K
+svchost.exe                   8292 Services                   0     13ÿ748 K
+audiodg.exe                   8452 Services                   0     20ÿ876 K
+NisSrv.exe                    9324 Services                   0     13ÿ692 K
+NVIDIA Web Helper.exe         9440 Console                    1      9ÿ604 K
+conhost.exe                   9560 Console                    1      1ÿ076 K
+RuntimeBroker.exe             7316 Console                    1     19ÿ140 K
+AdAppMgrUpdater.exe          10128 Services                   0     10ÿ784 K
+dllhost.exe                   9140 Services                   0     11ÿ360 K
+nvsphelper64.exe             10472 Console                    1     13ÿ176 K
+NVIDIA Share.exe             10480 Console                    1     67ÿ536 K
+NVIDIA Share.exe             10644 Console                    1     47ÿ232 K
+NVIDIA Share.exe             10724 Console                    1     68ÿ968 K
+svchost.exe                  11076 Services                   0     10ÿ272 K
+TextInputHost.exe            11224 Console                    1    106ÿ788 K
+SecurityHealthSystray.exe     6300 Console                    1      9ÿ788 K
+SecurityHealthService.exe    11272 Services                   0     16ÿ540 K
+RtkAudUService64.exe         11328 Console                    1      8ÿ604 K
+opera.exe                    11424 Console                    1    254ÿ300 K
+opera_crashreporter.exe      11472 Console                    1      8ÿ580 K
+opera.exe                    11620 Console                    1    191ÿ684 K
+opera.exe                    11644 Console                    1     38ÿ980 K
+opera.exe                    11760 Console                    1     17ÿ352 K
+Discord.exe                  11832 Console                    1     73ÿ400 K
+opera.exe                    11856 Console                    1     83ÿ584 K
+DualSenseX.exe               11900 Console                    1    167ÿ720 K
+opera.exe                    12064 Console                    1    110ÿ852 K
+opera.exe                    12072 Console                    1     25ÿ484 K
+opera.exe                    12164 Console                    1    110ÿ764 K
+opera.exe                    12280 Console                    1     87ÿ276 K
+opera.exe                     5916 Console                    1     85ÿ728 K
+opera.exe                     5912 Console                    1     25ÿ468 K
+opera.exe                    11380 Console                    1    151ÿ704 K
+opera.exe                    11404 Console                    1    149ÿ948 K
+opera.exe                    11372 Console                    1    160ÿ084 K
+opera.exe                    11584 Console                    1     25ÿ392 K
+opera.exe                    11908 Console                    1    147ÿ912 K
+opera.exe                    11932 Console                    1    557ÿ504 K
+opera.exe                    11948 Console                    1    209ÿ832 K
+opera.exe                    11936 Console                    1     25ÿ440 K
+opera.exe                    12364 Console                    1    173ÿ320 K
+opera.exe                    12412 Console                    1    176ÿ640 K
+opera.exe                    12432 Console                    1    188ÿ084 K
+opera.exe                    12468 Console                    1    174ÿ456 K
+opera.exe                    12508 Console                    1    219ÿ688 K
+opera.exe                    12528 Console                    1     26ÿ584 K
+opera.exe                    12616 Console                    1     25ÿ456 K
+opera.exe                    12660 Console                    1     25ÿ472 K
+opera.exe                    12668 Console                    1     25ÿ424 K
+opera.exe                    12708 Console                    1     25ÿ504 K
+opera.exe                    12716 Console                    1     26ÿ732 K
+opera.exe                    12764 Console                    1    114ÿ120 K
+opera.exe                    12784 Console                    1    123ÿ572 K
+opera.exe                    12792 Console                    1    102ÿ256 K
+opera.exe                    12852 Console                    1     88ÿ064 K
+opera.exe                    12892 Console                    1     88ÿ112 K
+opera.exe                    12936 Console                    1    165ÿ260 K
+opera.exe                    13068 Console                    1     82ÿ088 K
+opera.exe                    13104 Console                    1     18ÿ764 K
+opera.exe                    13940 Console                    1     95ÿ800 K
+opera.exe                    14092 Console                    1     82ÿ452 K
+opera.exe                    15140 Console                    1     98ÿ056 K
+utweb.exe                    15192 Console                    1     18ÿ020 K
+Discord.exe                  15576 Console                    1     23ÿ820 K
+Discord.exe                  15956 Console                    1    172ÿ100 K
+Discord.exe                  16024 Console                    1     40ÿ020 K
+helper.exe                   16164 Console                    1     12ÿ352 K
+opera.exe                    15712 Console                    1    221ÿ420 K
+Discord.exe                  15640 Console                    1    246ÿ420 K
+AutodeskDesktopApp.exe       15528 Console                    1     37ÿ736 K
+opera.exe                    16632 Console                    1    227ÿ648 K
+AcWebBrowser.exe             16980 Console                    1     32ÿ320 K
+GenuineService.exe           17028 Console                    1     13ÿ088 K
+acrotray.exe                 17112 Console                    1      7ÿ052 K
+opera.exe                    17200 Console                    1    107ÿ236 K
+AcWebBrowser.exe             17268 Console                    1     30ÿ016 K
+opera.exe                    17392 Console                    1    142ÿ000 K
+AcWebBrowser.exe             16664 Console                    1     45ÿ112 K
+opera.exe                    17588 Console                    1    141ÿ928 K
+Telegram.exe                 17508 Console                    1    163ÿ504 K
+ShellExperienceHost.exe       6900 Console                    1     92ÿ340 K
+Discord.exe                  18464 Console                    1     56ÿ004 K
+RuntimeBroker.exe            18784 Console                    1     28ÿ676 K
+opera.exe                    19388 Console                    1     40ÿ196 K
+opera.exe                     8164 Console                    1     26ÿ552 K
+ApplicationFrameHost.exe     18892 Console                    1     30ÿ244 K
+SystemSettings.exe            9064 Console                    1      2ÿ148 K
+svchost.exe                   8428 Services                   0     11ÿ344 K
+UserOOBEBroker.exe           18688 Console                    1      9ÿ076 K
+svchost.exe                  17780 Services                   0      6ÿ688 K
+SgrmBroker.exe                6544 Services                   0      8ÿ476 K
+svchost.exe                  18836 Console                    1     21ÿ476 K
+svchost.exe                  14504 Services                   0     10ÿ012 K
+Widgets.exe                   9628 Console                    1     36ÿ736 K
+svchost.exe                  18876 Services                   0     12ÿ328 K
+msedgewebview2.exe            3200 Console                    1      8ÿ532 K
+msedgewebview2.exe            3576 Console                    1      7ÿ208 K
+msedgewebview2.exe            9476 Console                    1      5ÿ824 K
+msedgewebview2.exe           14224 Console                    1     32ÿ156 K
+msedgewebview2.exe           11244 Console                    1     17ÿ212 K
+msedgewebview2.exe           10736 Console                    1      2ÿ252 K
+WINWORD.EXE                   9020 Console                    1    177ÿ596 K
+svchost.exe                  16396 Services                   0      7ÿ312 K
+msedgewebview2.exe           12012 Console                    1     88ÿ752 K
+msedgewebview2.exe           10548 Console                    1      7ÿ512 K
+msedgewebview2.exe           19244 Console                    1     43ÿ784 K
+msedgewebview2.exe            2392 Console                    1     28ÿ472 K
+msedgewebview2.exe            3000 Console                    1     17ÿ936 K
+msedgewebview2.exe            5280 Console                    1     49ÿ596 K
+svchost.exe                   3132 Services                   0     13ÿ820 K
+dllhost.exe                   3280 Console                    1      7ÿ128 K
+WindowsTerminal.exe          18076 Console                    1     76ÿ444 K
+RuntimeBroker.exe            10076 Console                    1     10ÿ536 K
+OpenConsole.exe               5132 Console                    1      8ÿ648 K
+powershell.exe                8496 Console                    1     57ÿ728 K
+Taskmgr.exe                   2992 Console                    1     52ÿ712 K
+MiniSearchHost.exe            2184 Console                    1     71ÿ636 K
+efsui.exe                    18068 Console                    1      9ÿ864 K
+backgroundTaskHost.exe        1868 Console                    1     21ÿ412 K
+SDXHelper.exe                17412 Console                    1     22ÿ552 K
+svchost.exe                   6396 Console                    1     15ÿ760 K
+svchost.exe                  11560 Services                   0     11ÿ696 K
+SystemSettingsBroker.exe      4800 Console                    1     19ÿ040 K
+steam.exe                    10156 Console                    1    173ÿ900 K
+steamwebhelper.exe            9744 Console                    1    133ÿ884 K
+steamservice.exe              3184 Services                   0     13ÿ936 K
+steamwebhelper.exe           16628 Console                    1     14ÿ748 K
+steamwebhelper.exe            7320 Console                    1    172ÿ256 K
+steamwebhelper.exe            9008 Console                    1     32ÿ368 K
+steamwebhelper.exe           17488 Console                    1    139ÿ128 K
+steamwebhelper.exe           15648 Console                    1    126ÿ680 K
+Discord.exe                   6228 Console                    1     78ÿ424 K
+Video.UI.exe                 19312 Console                    1      2ÿ884 K
+RuntimeBroker.exe             7336 Console                    1      8ÿ000 K
+steamwebhelper.exe           14436 Console                    1     84ÿ208 K
+Discord.exe                  10868 Console                    1    208ÿ688 K
+smartscreen.exe               4392 Console                    1     25ÿ040 K
+svchost.exe                   3564 Services                   0     12ÿ276 K
+notepad++.exe                 6896 Console                    1     51ÿ584 K
+svchost.exe                   3232 Services                   0      8ÿ764 K
+svchost.exe                   6636 Services                   0      7ÿ884 K
+WmiPrvSE.exe                 15728 Services                   0     17ÿ724 K
+WmiPrvSE.exe                  7048 Services                   0      9ÿ232 K
+TrustedInstaller.exe          7104 Services                   0      8ÿ384 K
+TiWorker.exe                  4180 Services                   0     14ÿ612 K
+SearchProtocolHost.exe       14656 Console                    1      9ÿ112 K
+opera.exe                    17828 Console                    1     90ÿ016 K
+cmd.exe                      10756 Console                    1      5ÿ696 K
+tasklist.exe                 11192 Console                    1      9ÿ672 K
+22.06.2022 - 18:46:07
+Error. File notepad.exe not created
+22.06.2022 - 18:46:07
+Count of deleted files - "0"
+22.06.2022 - 18:46:07
+Error. File archiving is not complete
+22.06.2022 - 18:46:07
+Error. Moving archive is not complete
+22.06.2022 - 18:46:07
+Error. Yesterday's archive is missing
+22.06.2022 - 18:46:07
+Error. No archives older than 30 days were found
+22.06.2022 - 18:46:07
+Internet connection is present
+22.06.2022 18:46:10,87: Computer with specified IP: 192.191.5.1 in LAN was NOT found 
+22.06.2022 18:46:10,87: Computer with specified IP: 192.191.5.1 in LAN was NOT found 
+
+Interface: 192.168.56.1 --- 0x6
+  Internet Address      Physical Address      Type
+  192.168.56.255        ff-ff-ff-ff-ff-ff     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.192.152.143       01-00-5e-40-98-8f     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+
+Interface: 192.168.0.108 --- 0xd
+  Internet Address      Physical Address      Type
+  192.168.0.1           ac-84-c6-66-73-e2     dynamic   
+  192.168.0.255         ff-ff-ff-ff-ff-ff     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.192.152.143       01-00-5e-40-98-8f     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static    
+22.06.2022 - 18:46:07
+The address is present in ipon.txt
+22.06.2022 - 18:46:10
+Size "text.txt" more "500" 
+22.06.2022 - 18:46:10
+22.06.2022 18:46:10,95: Name: C: 
+22.06.2022 18:46:10,95: Free Space: 36,32 GB 
+22.06.2022 18:46:10,95: Used Space: 428,62 GB 
+22.06.2022 18:46:10,95: Total space: 464,94 GB 
+27.06.2022 14:47:17,44: Log file with name "text.txt" was opened 
+Previous time: 27.06.2022 14:47:17,45 
+27.06.2022 - 14:47:17
+File text.txt successfully open
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0          8 K
+System                           4 Services                   0     10ÿ624 K
+Registry                       200 Services                   0    113ÿ020 K
+smss.exe                       608 Services                   0      1ÿ148 K
+csrss.exe                      832 Services                   0      6ÿ216 K
+wininit.exe                    928 Services                   0      7ÿ064 K
+services.exe                  1000 Services                   0      8ÿ736 K
+lsass.exe                     1020 Services                   0     53ÿ524 K
+svchost.exe                   1124 Services                   0     63ÿ136 K
+fontdrvhost.exe               1160 Services                   0      6ÿ304 K
+svchost.exe                   1252 Services                   0     31ÿ184 K
+svchost.exe                   1300 Services                   0     20ÿ428 K
+svchost.exe                   1532 Services                   0     41ÿ356 K
+svchost.exe                   1556 Services                   0     21ÿ812 K
+svchost.exe                   1564 Services                   0     34ÿ248 K
+svchost.exe                   1584 Services                   0     22ÿ380 K
+svchost.exe                   1692 Services                   0     14ÿ424 K
+svchost.exe                   1728 Services                   0     36ÿ428 K
+svchost.exe                   1740 Services                   0     13ÿ824 K
+svchost.exe                   1796 Services                   0     15ÿ108 K
+svchost.exe                   1896 Services                   0     29ÿ260 K
+NVDisplay.Container.exe       2088 Services                   0     57ÿ524 K
+svchost.exe                   2144 Services                   0     20ÿ060 K
+svchost.exe                   2180 Services                   0     26ÿ600 K
+svchost.exe                   2216 Services                   0     14ÿ192 K
+svchost.exe                   2264 Services                   0     13ÿ836 K
+svchost.exe                   2272 Services                   0     29ÿ276 K
+svchost.exe                   2284 Services                   0     17ÿ384 K
+svchost.exe                   2436 Services                   0     17ÿ624 K
+Memory Compression            2484 Services                   0    968ÿ700 K
+svchost.exe                   2532 Services                   0     18ÿ876 K
+svchost.exe                   2580 Services                   0     18ÿ580 K
+svchost.exe                   2588 Services                   0     23ÿ916 K
+svchost.exe                   2660 Services                   0     16ÿ812 K
+svchost.exe                   2884 Services                   0     30ÿ680 K
+svchost.exe                   3000 Services                   0     33ÿ588 K
+svchost.exe                   3080 Services                   0     34ÿ572 K
+svchost.exe                   3128 Services                   0     18ÿ600 K
+svchost.exe                   3136 Services                   0     14ÿ396 K
+svchost.exe                   3184 Services                   0     32ÿ164 K
+spoolsv.exe                   3324 Services                   0     38ÿ416 K
+svchost.exe                   3392 Services                   0     27ÿ564 K
+svchost.exe                   3476 Services                   0     18ÿ180 K
+svchost.exe                   3512 Services                   0     17ÿ704 K
+svchost.exe                   3556 Services                   0     22ÿ192 K
+svchost.exe                   3844 Services                   0     63ÿ752 K
+svchost.exe                   3852 Services                   0     35ÿ316 K
+svchost.exe                   3872 Services                   0     18ÿ324 K
+svchost.exe                   3880 Services                   0     61ÿ804 K
+svchost.exe                   3888 Services                   0     38ÿ716 K
+svchost.exe                   3896 Services                   0     13ÿ328 K
+AdskAccessServiceHost.exe     3904 Services                   0     58ÿ132 K
+RtkAudUService64.exe          3912 Services                   0     33ÿ168 K
+sqlwriter.exe                 3920 Services                   0     19ÿ172 K
+svchost.exe                   3936 Services                   0     18ÿ136 K
+AdAppMgrSvc.exe               3932 Services                   0     63ÿ844 K
+nvcontainer.exe               3948 Services                   0     93ÿ524 K
+FNPLicensingService.exe       3972 Services                   0     31ÿ928 K
+OriginWebHelperService.ex     4032 Services                   0     32ÿ440 K
+AdskLicensingService.exe      4100 Services                   0     23ÿ240 K
+svchost.exe                   4172 Services                   0      8ÿ820 K
+svchost.exe                   4492 Services                   0     12ÿ580 K
+hidemesvc.exe                 5128 Services                   0     42ÿ104 K
+AggregatorHost.exe            5328 Services                   0      5ÿ328 K
+svchost.exe                   5344 Services                   0     14ÿ116 K
+svchost.exe                   5716 Services                   0      7ÿ488 K
+svchost.exe                   6192 Services                   0     21ÿ688 K
+svchost.exe                   6872 Services                   0      7ÿ820 K
+svchost.exe                   6908 Services                   0     17ÿ344 K
+svchost.exe                   1100 Services                   0     14ÿ820 K
+svchost.exe                   1520 Services                   0     13ÿ104 K
+svchost.exe                  10384 Services                   0     13ÿ680 K
+AdAppMgrUpdater.exe          10872 Services                   0     11ÿ716 K
+dllhost.exe                  10252 Services                   0     12ÿ784 K
+svchost.exe                  10792 Services                   0     11ÿ688 K
+SecurityHealthService.exe    11740 Services                   0     15ÿ656 K
+MsMpEng.exe                   9360 Services                   0    230ÿ744 K
+NisSrv.exe                   11948 Services                   0     18ÿ056 K
+svchost.exe                  18080 Services                   0     10ÿ796 K
+svchost.exe                   4116 Services                   0      8ÿ176 K
+svchost.exe                  15760 Services                   0     12ÿ284 K
+SgrmBroker.exe               18508 Services                   0      8ÿ588 K
+svchost.exe                  12360 Services                   0      9ÿ896 K
+svchost.exe                   7048 Services                   0     18ÿ172 K
+svchost.exe                  14236 Services                   0     12ÿ468 K
+svchost.exe                  20428 Services                   0      6ÿ184 K
+svchost.exe                  13104 Services                   0     15ÿ336 K
+svchost.exe                   8384 Services                   0      7ÿ740 K
+MpCopyAccelerator.exe        23220 Services                   0      6ÿ116 K
+svchost.exe                  19172 Services                   0     10ÿ160 K
+svchost.exe                  12836 Services                   0      9ÿ096 K
+svchost.exe                  24812 Services                   0      7ÿ168 K
+OfficeClickToRun.exe         18920 Services                   0     51ÿ376 K
+AppVShNotify.exe              2164 Services                   0      7ÿ336 K
+SearchIndexer.exe            15600 Services                   0     47ÿ884 K
+audiodg.exe                  21960 Services                   0     39ÿ268 K
+svchost.exe                   5392 Services                   0      6ÿ460 K
+csrss.exe                    19652 Console                    8      7ÿ448 K
+winlogon.exe                  1956 Console                    8     17ÿ216 K
+fontdrvhost.exe              13820 Console                    8     12ÿ272 K
+dwm.exe                      22764 Console                    8    109ÿ444 K
+NVDisplay.Container.exe       3472 Console                    8     50ÿ112 K
+svchost.exe                   1788 Services                   0      5ÿ992 K
+nvcontainer.exe               1980 Console                    8     28ÿ748 K
+nvcontainer.exe              19760 Console                    8     48ÿ820 K
+sihost.exe                   13604 Console                    8     33ÿ872 K
+svchost.exe                  19284 Console                    8     25ÿ264 K
+svchost.exe                   9840 Console                    8     35ÿ928 K
+explorer.exe                 16972 Console                    8    255ÿ220 K
+svchost.exe                  11452 Console                    8     23ÿ604 K
+taskhostw.exe                13400 Console                    8     19ÿ456 K
+NVIDIA Web Helper.exe        11116 Console                    8     23ÿ196 K
+conhost.exe                  24520 Console                    8      1ÿ096 K
+SearchHost.exe                9092 Console                    8    228ÿ908 K
+StartMenuExperienceHost.e    14292 Console                    8     72ÿ136 K
+RuntimeBroker.exe            17580 Console                    8     25ÿ388 K
+RuntimeBroker.exe            16996 Console                    8     55ÿ588 K
+svchost.exe                  14128 Console                    8     13ÿ372 K
+dllhost.exe                  21496 Console                    8     17ÿ852 K
+Hide.me.exe                  19476 Console                    8     86ÿ272 K
+YourPhone.exe                11864 Console                    8      3ÿ468 K
+ctfmon.exe                   22200 Console                    8     22ÿ456 K
+RuntimeBroker.exe             9448 Console                    8     14ÿ544 K
+nvsphelper64.exe             19428 Console                    8     13ÿ396 K
+NVIDIA Share.exe             23928 Console                    8     62ÿ868 K
+NVIDIA Share.exe             21228 Console                    8     42ÿ748 K
+NVIDIA Share.exe              3152 Console                    8     59ÿ688 K
+TextInputHost.exe            19140 Console                    8    121ÿ240 K
+SecurityHealthSystray.exe    22476 Console                    8      9ÿ868 K
+RtkAudUService64.exe          4028 Console                    8      9ÿ492 K
+opera.exe                    13640 Console                    8    272ÿ860 K
+opera_crashreporter.exe        704 Console                    8      9ÿ404 K
+opera.exe                    12840 Console                    8    196ÿ228 K
+opera.exe                    25144 Console                    8     39ÿ424 K
+opera.exe                    19256 Console                    8     18ÿ208 K
+opera.exe                    13452 Console                    8     83ÿ620 K
+opera.exe                     3808 Console                    8    109ÿ420 K
+opera.exe                     1152 Console                    8     93ÿ800 K
+opera.exe                    23180 Console                    8    105ÿ260 K
+Discord.exe                  23920 Console                    8     77ÿ792 K
+opera.exe                    12728 Console                    8     88ÿ512 K
+opera.exe                    16340 Console                    8     89ÿ628 K
+opera.exe                     7380 Console                    8     25ÿ520 K
+opera.exe                    17280 Console                    8    134ÿ872 K
+DualSenseX.exe                9188 Console                    8    161ÿ168 K
+opera.exe                    10724 Console                    8    134ÿ356 K
+opera.exe                      672 Console                    8    569ÿ412 K
+opera.exe                    22312 Console                    8    125ÿ132 K
+opera.exe                     3528 Console                    8    134ÿ168 K
+opera.exe                     5768 Console                    8    120ÿ692 K
+opera.exe                    23648 Console                    8    185ÿ892 K
+opera.exe                     7088 Console                    8    190ÿ424 K
+opera.exe                    12524 Console                    8    194ÿ468 K
+opera.exe                    23716 Console                    8    191ÿ888 K
+opera.exe                    25200 Console                    8    182ÿ556 K
+opera.exe                     2688 Console                    8     25ÿ544 K
+opera.exe                     9740 Console                    8     25ÿ476 K
+opera.exe                     4732 Console                    8     25ÿ532 K
+opera.exe                    12592 Console                    8     25ÿ488 K
+opera.exe                    13896 Console                    8     25ÿ556 K
+opera.exe                     3524 Console                    8     25ÿ500 K
+opera.exe                     2156 Console                    8     25ÿ536 K
+opera.exe                     9184 Console                    8     26ÿ968 K
+opera.exe                     9716 Console                    8     27ÿ036 K
+opera.exe                    15064 Console                    8     25ÿ500 K
+opera.exe                    14116 Console                    8     25ÿ516 K
+opera.exe                    19032 Console                    8    102ÿ232 K
+opera.exe                     5968 Console                    8    144ÿ788 K
+opera.exe                     7072 Console                    8     82ÿ300 K
+opera.exe                    15772 Console                    8     20ÿ752 K
+opera.exe                    19384 Console                    8     99ÿ212 K
+opera.exe                    16572 Console                    8     82ÿ524 K
+opera.exe                    17672 Console                    8     96ÿ200 K
+Discord.exe                  17348 Console                    8     42ÿ360 K
+Discord.exe                   1700 Console                    8    104ÿ292 K
+Discord.exe                  20340 Console                    8     55ÿ008 K
+utweb.exe                    24972 Console                    8     22ÿ532 K
+helper.exe                   24080 Console                    8     16ÿ228 K
+Discord.exe                   2984 Console                    8    199ÿ516 K
+AutodeskDesktopApp.exe       24796 Console                    8     42ÿ992 K
+AcWebBrowser.exe             21868 Console                    8     35ÿ344 K
+GenuineService.exe            5368 Console                    8     15ÿ404 K
+opera.exe                    15828 Console                    8    252ÿ008 K
+acrotray.exe                   956 Console                    8      9ÿ220 K
+AcWebBrowser.exe             19588 Console                    8     32ÿ112 K
+AcWebBrowser.exe             16096 Console                    8     44ÿ160 K
+Discord.exe                   2972 Console                    8     70ÿ368 K
+ShellExperienceHost.exe      19488 Console                    8     99ÿ140 K
+RuntimeBroker.exe            17528 Console                    8     25ÿ184 K
+opera.exe                    22272 Console                    8     82ÿ588 K
+ApplicationFrameHost.exe      2944 Console                    8     31ÿ240 K
+SystemSettings.exe           17572 Console                    8      2ÿ920 K
+UserOOBEBroker.exe            7956 Console                    8      9ÿ424 K
+svchost.exe                  10364 Console                    8     12ÿ512 K
+Widgets.exe                  16628 Console                    8     38ÿ248 K
+msedgewebview2.exe            5804 Console                    8      6ÿ812 K
+msedgewebview2.exe           12400 Console                    8      7ÿ876 K
+msedgewebview2.exe           11724 Console                    8      5ÿ648 K
+msedgewebview2.exe            5588 Console                    8     33ÿ904 K
+msedgewebview2.exe           25444 Console                    8     19ÿ016 K
+msedgewebview2.exe           17832 Console                    8      2ÿ352 K
+svchost.exe                  10024 Console                    8     16ÿ112 K
+SystemSettingsBroker.exe     20204 Console                    8     18ÿ640 K
+Telegram.exe                 19064 Console                    8    285ÿ560 K
+SDXHelper.exe                20088 Console                    8     20ÿ040 K
+Microsoft.Photos.exe         19180 Console                    8      4ÿ900 K
+RuntimeBroker.exe            23408 Console                    8     17ÿ444 K
+opera.exe                     1776 Console                    8    100ÿ576 K
+steam.exe                    20144 Console                    8     71ÿ844 K
+steamwebhelper.exe           15988 Console                    8    104ÿ352 K
+steamservice.exe             17220 Services                   0     13ÿ776 K
+steamwebhelper.exe            5672 Console                    8     19ÿ064 K
+steamwebhelper.exe              32 Console                    8     56ÿ612 K
+steamwebhelper.exe            8572 Console                    8     32ÿ596 K
+steamwebhelper.exe           19324 Console                    8     56ÿ380 K
+steamwebhelper.exe           10164 Console                    8     90ÿ016 K
+steamwebhelper.exe           20920 Console                    8     71ÿ196 K
+opera.exe                    19196 Console                    8     84ÿ232 K
+opera.exe                    22036 Console                    8     94ÿ720 K
+opera.exe                     7144 Console                    8     89ÿ860 K
+MiniSearchHost.exe           14688 Console                    8     53ÿ088 K
+opera.exe                     9056 Console                    8    121ÿ300 K
+svchost.exe                  12760 Services                   0      8ÿ216 K
+opera.exe                    13664 Console                    8    128ÿ280 K
+opera.exe                     7616 Console                    8    233ÿ176 K
+MSIAfterburner.exe           24424 Console                    8     29ÿ896 K
+opera.exe                     5924 Console                    8     25ÿ136 K
+opera.exe                    18536 Console                    8     86ÿ776 K
+SearchProtocolHost.exe       14844 Console                    8      8ÿ836 K
+dllhost.exe                  21848 Console                    8      7ÿ516 K
+SearchFilterHost.exe          8592 Services                   0      9ÿ176 K
+SearchFilterHost.exe         25088 Services                   0      9ÿ908 K
+svchost.exe                  18252 Console                    8     14ÿ892 K
+svchost.exe                   6220 Services                   0     12ÿ128 K
+Taskmgr.exe                  19048 Console                    8     74ÿ368 K
+smartscreen.exe               8256 Console                    8     24ÿ420 K
+WINWORD.EXE                  16632 Console                    8    257ÿ096 K
+svchost.exe                  14388 Services                   0      6ÿ952 K
+msedgewebview2.exe           17000 Console                    8     99ÿ768 K
+msedgewebview2.exe           12540 Console                    8      8ÿ848 K
+msedgewebview2.exe           25132 Console                    8     54ÿ528 K
+msedgewebview2.exe           20300 Console                    8     31ÿ556 K
+msedgewebview2.exe           23056 Console                    8     19ÿ940 K
+msedgewebview2.exe           18736 Console                    8     64ÿ592 K
+dllhost.exe                  24868 Console                    8     18ÿ544 K
+svchost.exe                  13008 Services                   0      7ÿ908 K
+WindowsTerminal.exe          12876 Console                    8     86ÿ040 K
+RuntimeBroker.exe            22788 Console                    8     12ÿ596 K
+OpenConsole.exe               3156 Console                    8      9ÿ976 K
+powershell.exe               20336 Console                    8     62ÿ924 K
+svchost.exe                  25076 Services                   0      8ÿ760 K
+WmiPrvSE.exe                  9128 Services                   0     11ÿ728 K
+Notepad.exe                  11348 Console                    8     68ÿ000 K
+cmd.exe                        552 Console                    8      5ÿ552 K
+tasklist.exe                  9912 Console                    8      9ÿ648 K
+27.06.2022 - 14:47:17
+File notepad.exe created 
+27.06.2022 - 14:47:17
+Count of deleted files - "0"
+27.06.2022 - 14:47:17
+Error. File archiving is not complete
+27.06.2022 - 14:47:17
+Error. Moving archive is not complete
+27.06.2022 - 14:47:17
+Error. Yesterday's archive is missing
+27.06.2022 - 14:47:17
+Error. No archives older than 30 days were found
+27.06.2022 - 14:47:17
+Internet connection is present
+27.06.2022 14:47:20,98: Computer with specified IP: 192.191.5.1 in LAN was NOT found 
+27.06.2022 14:47:20,98: Computer with specified IP: 192.191.5.1 in LAN was NOT found 
+
+Interface: 192.168.56.1 --- 0x6
+  Internet Address      Physical Address      Type
+  192.168.56.255        ff-ff-ff-ff-ff-ff     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.192.152.143       01-00-5e-40-98-8f     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+
+Interface: 192.168.0.108 --- 0xd
+  Internet Address      Physical Address      Type
+  192.168.0.1           ac-84-c6-66-73-e2     dynamic   
+  192.168.0.104         e0-76-d0-49-6a-80     dynamic   
+  192.168.0.255         ff-ff-ff-ff-ff-ff     static    
+  224.0.0.22            01-00-5e-00-00-16     static    
+  224.0.0.251           01-00-5e-00-00-fb     static    
+  224.0.0.252           01-00-5e-00-00-fc     static    
+  239.192.152.143       01-00-5e-40-98-8f     static    
+  239.255.255.250       01-00-5e-7f-ff-fa     static    
+  255.255.255.255       ff-ff-ff-ff-ff-ff     static    
+27.06.2022 - 14:47:17
+The address is present in ipon.txt
+27.06.2022 - 14:47:21
+Size "text.txt" more "500" 
+27.06.2022 - 14:47:21
+27.06.2022 14:47:21,07: Name: C: 
+27.06.2022 14:47:21,07: Free Space: 38,84 GB 
+27.06.2022 14:47:21,07: Used Space: 426,10 GB 
+27.06.2022 14:47:21,07: Total space: 464,94 GB 

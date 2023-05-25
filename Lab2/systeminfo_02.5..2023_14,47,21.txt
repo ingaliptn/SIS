@@ -1,0 +1,55 @@
+
+Host Name:                 ingaliptn
+OS Name:                   Microsoft Windows 11 Pro
+OS Version:                10.0.22000 N/A Build 22000
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          ABOBA
+Registered Organization:   
+Product ID:                00330-80000-00000-AA567
+Original Install Date:     12.05.2023, 13:51:35
+System Boot Time:          23.05.2023, 11:34:53
+System Manufacturer:       Gigabyte Technology Co., Ltd.
+System Model:              B450 AORUS ELITE
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: AMD64 Family 23 Model 8 Stepping 2 AuthenticAMD ~3400 Mhz
+BIOS Version:              American Megatrends Inc. F32, 06.05.2019
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+02:00) Helsinki, Kyiv, Riga, Sofia, Tallinn, Vilnius
+Total Physical Memory:     16ÿ335 MB
+Available Physical Memory: 7ÿ826 MB
+Virtual Memory: Max Size:  28ÿ623 MB
+Virtual Memory: Available: 13ÿ029 MB
+Virtual Memory: In Use:    15ÿ594 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\ingaliptn
+Hotfix(s):                 4 Hotfix(s) Installed.
+                           [01]: KB5013889
+                           [02]: KB5010690
+                           [03]: KB5014697
+                           [04]: KB5014034
+Network Card(s):           2 NIC(s) Installed.
+                           [01]: Realtek Gaming GbE Family Controller
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.0.1
+                                 IP address(es)
+                                 [01]: 192.168.0.108
+                                 [02]: fe80::2d72:39ba:9427:5f9e
+                           [02]: VirtualBox Host-Only Ethernet Adapter
+                                 Connection Name: VirtualBox Host-Only Network
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 192.168.56.1
+                                 [02]: fe80::2d5a:2e65:f531:33e
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
